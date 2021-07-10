@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32f5edb7-3f30-480a-97ae-9525e9147109" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moviesandshows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playlists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/start.html" afterDir="false" />
@@ -47,11 +51,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="terminal" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +74,26 @@
       <workItem from="1622964680841" duration="2566000" />
       <workItem from="1623141762725" duration="1052000" />
       <workItem from="1623651328719" duration="18302000" />
-      <workItem from="1623745917324" duration="9933000" />
+      <workItem from="1623745917324" duration="10054000" />
+      <workItem from="1623823291591" duration="2613000" />
+      <workItem from="1623834689421" duration="2742000" />
+      <workItem from="1623844669701" duration="811000" />
+      <workItem from="1623929081550" duration="2815000" />
+      <workItem from="1624007281040" duration="575000" />
+      <workItem from="1624007930150" duration="4044000" />
+      <workItem from="1624347751978" duration="724000" />
+      <workItem from="1624436580800" duration="574000" />
+      <workItem from="1624448006959" duration="3197000" />
+      <workItem from="1624535615587" duration="115000" />
+      <workItem from="1624613022725" duration="698000" />
+      <workItem from="1624619385082" duration="6000" />
+      <workItem from="1624952384583" duration="2492000" />
+      <workItem from="1624969914701" duration="301000" />
+      <workItem from="1625140565563" duration="516000" />
+      <workItem from="1625753224089" duration="169000" />
+      <workItem from="1625766475041" duration="608000" />
+      <workItem from="1625824935289" duration="234000" />
+      <workItem from="1625958389104" duration="300000" />
     </task>
     <servers />
   </component>
@@ -84,10 +113,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="405" y="208" key="SettingsEditor" timestamp="1625958651024">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="405" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1625958651024" />
     <state x="569" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623655532460">
       <screen x="0" y="25" width="1536" height="876" />
     </state>
     <state x="569" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1536.-37.1920.1055/0.25.1536.876@0.25.1536.876" timestamp="1623655532460" />
+    <state x="561" y="265" width="670" height="675" key="run.anything.popup" timestamp="1625958604734">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="561" y="265" width="670" height="675" key="run.anything.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1625958604734" />
     <state x="433" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1623673846686">
       <screen x="0" y="25" width="1536" height="874" />
     </state>
