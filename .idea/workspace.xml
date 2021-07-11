@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32f5edb7-3f30-480a-97ae-9525e9147109" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesandshows.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playlists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moviesandshows.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlists.html" beforeDir="false" afterPath="$PROJECT_DIR$/playlists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/start.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -93,7 +94,7 @@
       <workItem from="1625753224089" duration="169000" />
       <workItem from="1625766475041" duration="608000" />
       <workItem from="1625824935289" duration="234000" />
-      <workItem from="1625958389104" duration="300000" />
+      <workItem from="1625958389104" duration="25680000" />
     </task>
     <servers />
   </component>
@@ -117,9 +118,10 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="405" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1625958651024" />
-    <state x="569" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623655532460">
-      <screen x="0" y="25" width="1536" height="876" />
+    <state x="664" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626015035305">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
+    <state x="664" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1095@0.25.1792.1095" timestamp="1626015035305" />
     <state x="569" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1536.-37.1920.1055/0.25.1536.876@0.25.1536.876" timestamp="1623655532460" />
     <state x="561" y="265" width="670" height="675" key="run.anything.popup" timestamp="1625958604734">
       <screen x="0" y="25" width="1792" height="1095" />
